@@ -1,0 +1,150 @@
+/* General Container Styling */
+.container {
+  padding: 30px;
+  font-family: 'Arial', sans-serif;
+  background-color: #0070f3; /* Blue background */
+  color: #ffffff; /* White text */
+  max-width: 700px; /* Make the container narrower */
+  margin: 0 auto;
+  border-radius: 10px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+/* Class-based Header Styling */
+.heading {
+  font-size: 2.5rem; /* Slightly smaller heading */
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  margin-bottom: 30px; /* Reduced margin */
+  color: #ffffff;
+}
+
+/* Form Styling */
+.form {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* Two-column grid */
+  gap: 15px;
+  justify-content: center;
+  margin-bottom: 30px; /* Reduced margin */
+}
+
+.formFullRow {
+  grid-column: span 2; /* Full width input for items like Country and Fetch button */
+}
+
+/* Class-based Label Styling */
+.formLabel {
+  font-size: 1.2rem;
+  color: #ffffff;
+  text-align: left;
+}
+
+/* Class-based Input and Select Styling */
+.formInput {
+  padding: 10px; /* Smaller padding */
+  font-size: 1rem;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+  width: 100%;
+  background-color: #0070f3;
+  color: white;
+}
+
+.formInput::placeholder {
+  color: #cccccc; /* Lighter placeholder */
+}
+
+/* Button Styling */
+.fetchBtn {
+  padding: 12px 20px; /* Smaller button size */
+  font-size: 1.2rem;
+  font-family: 'Roboto', sans-serif;
+  background-color: #ffffff; /* White button */
+  color: #0070f3; /* Blue text */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.fetchBtn:hover {
+  background-color: #005bb5;
+  color: #ffffff;
+}
+
+/* Holiday List Styling */
+.holidayList {
+  list-style: none;
+  padding: 0;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.holidayItem {
+  background-color: #ffffff;
+  color: #0070f3;
+  padding: 15px;
+  margin-bottom: 20px;
+  border: 2px solid #005bb5;
+  border-radius: 10px;
+  text-align: left;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.holidayName {
+  font-size: 1.8rem; /* Slightly smaller */
+  margin-bottom: 10px;
+}
+
+.holidayDescription {
+  font-size: 1rem; /* Reduced font size */
+  margin: 5px 0;
+  color: #333;
+}
+
+.error {
+  color: red;
+  font-size: 1.2rem;
+  margin-top: 20px;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  .form {
+    grid-template-columns: 1fr; /* Single column on smaller screens */
+    gap: 15px;
+  }
+
+  .heading {
+    font-size: 2.2rem;
+  }
+
+  .fetchBtn {
+    font-size: 1.1rem;
+    padding: 10px 15px;
+  }
+
+  .formInput {
+    font-size: 0.9rem;
+  }
+}
+
+/* Style for "Learn More" link */
+.holidayLink {
+  display: inline-block;
+  background-color: #0070f3;
+  color: #ffffff;
+  padding: 10px 15px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: bold;
+  margin-top: 10px;
+  transition: background-color 0.3s;
+}
+
+.holidayLink:hover {
+  background-color: #005bb5;
+}
+
