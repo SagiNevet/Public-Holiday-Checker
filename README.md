@@ -14,7 +14,7 @@ Additionally, each holiday entry includes a "Learn More" button that redirects u
 - **Learn More**: Clickable links that direct users to Google for more details about each holiday.
 
 ## Demo Video
-Check out the demonstration of how to use the **Public Holiday Checker**:
+Check out the demonstration of how to use the **Worldwide Holidays Finder**:
 
 [![Worldwide Holidays Finder Demonstration](https://img.youtube.com/vi/S-bNmzzNPXw/0.jpg)](https://youtu.be/S-bNmzzNPXw)
 
