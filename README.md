@@ -1,5 +1,5 @@
 
-# Public Holiday Checker
+# Worldwide Holidays Finder
 
 This project is a web application built with built with Next.js, JavaScript, React, and the Calendarific API—this project includes a responsive design for optimal viewing on any device, along with a user-friendly UI/UX.
 It also leverages version control with Git and GitHub for easy collaboration and deployment.
@@ -16,9 +16,9 @@ Additionally, each holiday entry includes a "Learn More" button that redirects u
 ## Demo Video
 Check out the demonstration of how to use the **Public Holiday Checker**:
 
-[![Public Holiday Checker Demonstration](https://img.youtube.com/vi/N2BuZ5610Vc/maxresdefault.jpg)](https://www.youtube.com/watch?v=N2BuZ5610Vc)
+[![Worldwide Holidays Finder Demonstration](https://youtu.be/S-bNmzzNPXw/maxresdefault.jpg)](https://youtu.be/S-bNmzzNPXw)
 
-Alternatively, you can watch the video here: [Public Holiday Checker Demonstration](https://youtu.be/N2BuZ5610Vc)
+Alternatively, you can watch the video here: [Worldwide Holidays Finder Demonstration](https://youtu.be/S-bNmzzNPXw)
 
 ## Requirements
 - **Node.js** version 20.18.0 (or higher)
