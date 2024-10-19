@@ -116,7 +116,7 @@ export default function Home() {
 
   return (
     <div className={styles.container}>
-      <h1 className={styles.heading}>Public Holiday Checker</h1>
+      <h1 className={styles.heading}>Worldwide Holidays Finder</h1>
 
       <div className={styles.form}>
         <label className={`${styles.formLabel} ${styles.formFullRow}`}>Country: </label>
