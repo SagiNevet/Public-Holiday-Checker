@@ -1,7 +1,9 @@
 
 # Public Holiday Checker
 
-This project is a web application built with **Next.js** that allows users to check public holidays for different countries.
+This project is a web application built with built with Next.js, JavaScript, React, and the Calendarific API—this project includes a responsive design for optimal viewing on any device, along with a user-friendly UI/UX.
+It also leverages version control with Git and GitHub for easy collaboration and deployment.
+The project allows users to check public holidays for different countries.
 Users can filter holidays by date ranges, type, and location.
 Additionally, each holiday entry includes a "Learn More" button that redirects users to a Google search for more information about the holiday.
 
