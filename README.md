@@ -16,7 +16,7 @@ Additionally, each holiday entry includes a "Learn More" button that redirects u
 ## Demo Video
 Check out the demonstration of how to use the **Worldwide Holidays Finder**:
 
-![Worldwide Holidays Finder Demonstration](https://img.youtube.com/vi/vxj-fgc7xCs/0.jpg)](https://www.youtube.com/watch?v=vxj-fgc7xCs)
+[![Worldwide Holidays Finder Demonstration](https://img.youtube.com/vi/vxj-fgc7xCs/0.jpg)](https://www.youtube.com/watch?v=vxj-fgc7xCs)
 
 Alternatively, you can watch the video here: [Worldwide Holidays Finder Demonstration](https://www.youtube.com/watch?v=vxj-fgc7xCs)
 
